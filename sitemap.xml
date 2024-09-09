@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://pilot565.github.io/Gaming/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://pilot565.github.io/Gaming/</loc>
+</url>
+<url>
+<loc>https://pilot565.github.io/Gaming/csgo.html</loc>
+<lastmod>2024-09-09T11:47:13+02:00</lastmod>
+<image:image>
+<image:loc>https://pilot565.github.io/Gaming/media/posts/4/CS-PU.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pilot565.github.io/Gaming/splitgate.html</loc>
+<lastmod>2024-09-09T11:45:13+02:00</lastmod>
+<image:image>
+<image:loc>https://pilot565.github.io/Gaming/media/posts/3/spiltgate-pu.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pilot565.github.io/Gaming/titan-fall-2.html</loc>
+<lastmod>2024-09-09T11:38:59+02:00</lastmod>
+<image:image>
+<image:loc>https://pilot565.github.io/Gaming/media/posts/2/pub-im.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
